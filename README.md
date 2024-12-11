@@ -38,7 +38,7 @@ This project is a PHP-based registration form that utilizes Bootstrap for a mode
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/registration-form.git
+   git clone https://github.com/Yash-978/php.git
    cd registration-form
    ```
 
